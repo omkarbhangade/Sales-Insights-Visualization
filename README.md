@@ -1,3 +1,6 @@
 # Sales-Insights-Visualization (interactive Dashboard creation using Power BI)
-## Objectives
-To develop comprehensive data analysis and visualization to support strategic decisions for retail store expansion. To identify seasonal trends, top-performing countries, high-value customers, and regional product demand, providing actionable insights for optimizing marketing strategies and enhancing business growth.
+## Project Objective
+I developed this project using Power BI to find seasonal trends, top-performing countries, high-value customers, and regional demand for retail products. These insights aim to support strategic decisions for business expansion.
+
+## Dataset used
+- <a href="https://github.com/omkarbhangade/Sales-Insights-Visualization/blob/main/Online%20Retail%20Data%20Set.xlsx">Dataset<a/a
