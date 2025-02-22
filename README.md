@@ -19,6 +19,9 @@ I developed this project using Power BI to find seasonal trends, top-performing 
 - Top Customers: Highlighted top 10 customers by revenue.
 - Regional Demand: Visualized demand across regions, excluding the UK.
 
+## Project Link
+- <a  href="https://github.com/omkarbhangade/Sales-Insights-Visualization/blob/main/Data%20Visualisation%20in%20Power%20BI.pbix"> Power BI Project.
+
 ## Project Insights
 - Revenue Trends: Significant growth from September to November 2011.
 - Top Countries: Focus on the Netherlands, Ireland, Germany, and France.
